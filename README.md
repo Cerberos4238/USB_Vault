@@ -1,3 +1,4 @@
+⚠⚠⚠⚠⚠⚠⚠⚠
 This password vault script has to be set on a crypted usb key.
 There will be no security on your passwords if you run the script outside of a crypted environment.
 We have no responsability for your passwords.

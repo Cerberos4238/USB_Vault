@@ -15,7 +15,7 @@ $continue = $true
 
 #Menu
 while ($continue){
-    Write-Host "----------USB PASS----------"
+    Write-Host "----------USB VAULT----------"
     Write-Host "1. test1"
     Write-Host "2. test2"
     Write-Host "3. test3"
